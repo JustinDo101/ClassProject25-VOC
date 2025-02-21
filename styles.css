@@ -1,0 +1,19 @@
+body{
+    background-color:steelblue
+}
+h1{
+    color: azure;
+}
+p{
+    color: azure;
+}
+img {
+    border-style: dotted;
+    border-width: 10px;
+    border-color: papayawhip;
+}
+a {
+    color: aliceblue;
+    font-size: large;
+    text-decoration: none;
+}
